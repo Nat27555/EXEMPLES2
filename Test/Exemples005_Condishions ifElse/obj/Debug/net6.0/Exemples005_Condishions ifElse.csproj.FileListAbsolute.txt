@@ -1,0 +1,16 @@
+C:\Users\Дом2\Desktop\EXEMPLES2\Test\Exemples005_Condishions ifElse\obj\Debug\net6.0\Exemples005_Condishions ifElse.GlobalUsings.g.cs
+C:\Users\Дом2\Desktop\EXEMPLES2\Test\Exemples005_Condishions ifElse\obj\Debug\net6.0\Exemples005_Condishions ifElse.csproj.AssemblyReference.cache
+C:\Users\Дом2\Desktop\EXEMPLES2\Test\Exemples005_Condishions ifElse\obj\Debug\net6.0\Exemples005_Condishions ifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом2\Desktop\EXEMPLES2\Test\Exemples005_Condishions ifElse\obj\Debug\net6.0\Exemples005_Condishions ifElse.AssemblyInfoInputs.cache
+C:\Users\Дом2\Desktop\EXEMPLES2\Test\Exemples005_Condishions ifElse\obj\Debug\net6.0\Exemples005_Condishions ifElse.AssemblyInfo.cs
+C:\Users\Дом2\Desktop\EXEMPLES2\Test\Exemples005_Condishions ifElse\obj\Debug\net6.0\Exemples005_Condishions ifElse.csproj.CoreCompileInputs.cache
+C:\Users\Дом2\Desktop\EXEMPLES2\Test\Exemples005_Condishions ifElse\bin\Debug\net6.0\Exemples005_Condishions ifElse.exe
+C:\Users\Дом2\Desktop\EXEMPLES2\Test\Exemples005_Condishions ifElse\bin\Debug\net6.0\Exemples005_Condishions ifElse.deps.json
+C:\Users\Дом2\Desktop\EXEMPLES2\Test\Exemples005_Condishions ifElse\bin\Debug\net6.0\Exemples005_Condishions ifElse.runtimeconfig.json
+C:\Users\Дом2\Desktop\EXEMPLES2\Test\Exemples005_Condishions ifElse\bin\Debug\net6.0\Exemples005_Condishions ifElse.dll
+C:\Users\Дом2\Desktop\EXEMPLES2\Test\Exemples005_Condishions ifElse\bin\Debug\net6.0\ref\Exemples005_Condishions ifElse.dll
+C:\Users\Дом2\Desktop\EXEMPLES2\Test\Exemples005_Condishions ifElse\bin\Debug\net6.0\Exemples005_Condishions ifElse.pdb
+C:\Users\Дом2\Desktop\EXEMPLES2\Test\Exemples005_Condishions ifElse\obj\Debug\net6.0\Exemples005_Condishions ifElse.dll
+C:\Users\Дом2\Desktop\EXEMPLES2\Test\Exemples005_Condishions ifElse\obj\Debug\net6.0\ref\Exemples005_Condishions ifElse.dll
+C:\Users\Дом2\Desktop\EXEMPLES2\Test\Exemples005_Condishions ifElse\obj\Debug\net6.0\Exemples005_Condishions ifElse.pdb
+C:\Users\Дом2\Desktop\EXEMPLES2\Test\Exemples005_Condishions ifElse\obj\Debug\net6.0\Exemples005_Condishions ifElse.genruntimeconfig.cache
